@@ -1,5 +1,0 @@
-#忽略全部内容除了.gitignore pox.xml /src/目录
-/*
-!.gitignore
-!pox.xml
-!/src/
